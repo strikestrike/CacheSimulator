@@ -1,0 +1,11 @@
+sim -bs 4 -is 8192 -ds 8192 -a 2 -wb -wa traces/tex.trace
+sim -bs 8 -is 8192 -ds 8192 -a 2 -wb -wa traces/tex.trace
+sim -bs 16 -is 8192 -ds 8192 -a 2 -wb -wa traces/tex.trace
+sim -bs 32 -is 8192 -ds 8192 -a 2 -wb -wa traces/tex.trace
+sim -bs 64 -is 8192 -ds 8192 -a 2 -wb -wa traces/tex.trace
+sim -bs 128 -is 8192 -ds 8192 -a 2 -wb -wa traces/tex.trace
+sim -bs 256 -is 8192 -ds 8192 -a 2 -wb -wa traces/tex.trace
+sim -bs 512 -is 8192 -ds 8192 -a 2 -wb -wa traces/tex.trace
+sim -bs 1024 -is 8192 -ds 8192 -a 2 -wb -wa traces/tex.trace
+sim -bs 2048 -is 8192 -ds 8192 -a 2 -wb -wa traces/tex.trace
+sim -bs 4096 -is 8192 -ds 8192 -a 2 -wb -wa traces/tex.trace
